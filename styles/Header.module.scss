@@ -1,0 +1,12 @@
+.header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+
+	button {
+		border: none;
+		outline: none;
+		background-color: transparent;
+		cursor: pointer;
+	}
+}
